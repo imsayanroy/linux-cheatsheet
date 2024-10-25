@@ -1,6 +1,4 @@
 # linux-commands-cheatsheet
 -----
-<ul>
-  <li><b>Hey there, I am Sayan Roy. Here i am providing some linux commands which are actually usefull for a beginner linux dev.</b></li>
-</ul>
-----
+<b>Hey there, I am Sayan Roy. Here i am providing some linux commands which are actually usefull for a beginner linux dev.</b>
+<hr>
