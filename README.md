@@ -1,1 +1,1 @@
-# linux-cheatsheet
+# linux-commands-cheatsheet
