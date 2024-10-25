@@ -32,5 +32,6 @@ top                        #to display running tasks
 htop                       #to display interactive process viewer
 kill                       #to terminate a running task
 ```
-
+======================
+more commands comming soon...
 
