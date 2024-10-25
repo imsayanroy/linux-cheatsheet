@@ -5,6 +5,7 @@ Hey there, I am Sayan Roy. Here I am providing some linux commands which are act
 
 ----
 ```bash
-ls                         #list of contents in directory
+ls                         #list of contents in a directory
+pwd                        #to get the path of the directory
 ```
 
