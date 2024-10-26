@@ -46,6 +46,15 @@ htop                       #to display interactive process viewer
 ```bash
 kill                       #to terminate a running task
 ```
+```bash
+zip                        #to zip files or directory
+```
+```bash
+unzip                      #to unzip files or diectory
+```
+```bash
+echo                       #to display text
+```
 ----
 more commands comming soon...
 
