@@ -1,10 +1,11 @@
 # Vim cheatsheet
 ## Contents
 * [Introduction](#introduction)
-* **[`Installationcopy`](#installationcopy)**__,__
-## Introduction {#introduction}
+* [Installation](#installation)
+* [Installationcopy](#installationcopy)
+## Introduction
 Vim is a versatile text editor known for its speed and efficiency.
-## Installation {#installation}
+## Installation
 Here is the process to install Vim in Ubuntu/Kalilinux/Debian etc.
 - update the package lists
 ```bash
@@ -22,7 +23,7 @@ sudo apt install vim
 ```bash
 vim --version
 ```
-## Installationcopy {#installationcopy}
+## Installationcopy
 Here is the process to install Vim in Ubuntu/Kalilinux/Debian etc.
 - update the package lists
 ```bash
