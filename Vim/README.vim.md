@@ -1,6 +1,6 @@
 # Vim cheatsheet
 ## Contents
-* [Introduction](#introduction)
+* **[Introduction](#introduction)
 * [Installation](#installation)
 * [Installationcopy](#installationcopy)
 ## Introduction
