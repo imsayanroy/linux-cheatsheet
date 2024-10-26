@@ -1,5 +1,5 @@
 # ultimate-linux-cheatsheet
-#### Hey there, I am Sayan Roy. Here I am providing some linux commands which are actually usefull for a beginner linux dev.
+Hey there, I am Sayan Roy. Here I am providing some linux commands which are actually usefull for a beginner linux dev.
 ```bash
 ls                         #to get list of contents in a directory
 ```
