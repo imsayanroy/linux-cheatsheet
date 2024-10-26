@@ -1,8 +1,6 @@
 # Vim cheatsheet
 ## Contents
-* **[Introduction](#introduction)
-* [Installation](#installation)
-* [Installationcopy](#installationcopy)
+[Introduction](#introduction), [Installation](#installation), [Installationcopy](#installationcopy)
 ## Introduction
 Vim is a versatile text editor known for its speed and efficiency.
 ## Installation
