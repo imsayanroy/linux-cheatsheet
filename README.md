@@ -56,5 +56,5 @@ unzip                      #to unzip files or diectory
 echo                       #to display text
 ```
 ----
-more commands comming soon...
+more commands coming soon...
 
