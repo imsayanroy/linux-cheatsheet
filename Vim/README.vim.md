@@ -1,4 +1,2 @@
-Vim cheat sheet
-===============================
-
-##coming soon...
+# Vim cheat sheet
+coming soon...
