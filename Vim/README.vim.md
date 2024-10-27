@@ -1,5 +1,5 @@
 # Vim cheatsheet
-![vim editor](https://raspberrytips.com/use-vim-on-raspberry-pi/)
+![vim editor](https://raspberrytips.com/wp-content/uploads/2020/07/use-vim-raspberrypi.jpg)
 ## Table of Contents
 [Introduction](#introduction), [Installation](#installation), [Insert-mode](#insert-mode), [Exiting](#exiting).
 ## Introduction
