@@ -28,7 +28,6 @@ for example:
 ```bash
   ls -a
 ```
-
 | **Commands** | **Description** |
 | :-------- | :-------------- |
 | `-a` | Show all lists(including hidden) |
@@ -39,3 +38,12 @@ for example:
 | `-m` | Comma-­sep­arated output |
 | `-S` | Sort by file size |
 | `-t` | Sort by last modified |
+
+## Process management commands
+| **Commands** | **Description** |
+| :-------- | :-------------- |
+| `ps` | display runnig processes |
+| `top` | Display and manage the top processes |
+| `htop` | display interactive process viewer |
+| `kill` | end processes |
+| `pkill` | end processes based on their name |
