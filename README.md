@@ -11,6 +11,7 @@ learn more:[`linux.org`](https://www.linux.org/)
 ```bash
 pwd
 ```
+
 - list of files and directories
 ```bash
 ls
