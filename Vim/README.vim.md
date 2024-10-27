@@ -1,5 +1,5 @@
 # Vim cheatsheet
-![vim editor](https://db0dce98.rocketcdn.me/en/files/2024/02/vim-editeur-text-datascientest-1024x512-1.png)
+![vim editor](https://drive.google.com/thumbnail?id=1X_VNAMP0kX0GrY2XXEpytGhXGnlEP5aA)
 ## Table of Contents
 [Introduction](#introduction), [Installation](#installation), [Insert-mode](#insert-mode), [Exiting](#exiting).
 ## Introduction
