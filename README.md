@@ -7,55 +7,18 @@ Linux, a free and open-source operating system, empowers users with control and 
 
 learn more:[`linux.org`](https://www.linux.org/)
 ## File and directory commands
-- print current working directory
-```bash
-pwd
-```
-- list of files and directories
-```bash
-ls
-```
-- change directory
-```bash
-cd
-```
-- create new directory
-```bash
-mkdir
-```
-- create new file
-```bash
-touch
-```
-- remove file and directory
-```bash
-rm
-```
-- copy file and directory
-```bash
-cp
-```
-- move file and directory
-```bash
-mv
-```
-- show file contents
-```bash
-cat
-```
-- create links between files
-```bash
-ln
-```
-- display the first 10 lines of file
-```bash
-head
-```
-- display the last 10 lines of file
-```bash
-tail
-```
-- search for files and directories
-```bash
-find
-```
+| **Commands** | **Description**|
+| :------- | :------------------------- |
+| `pwd` | print working directory |
+| `ls` | list of files and directories |
+| `cd` | change directory |
+| `mkdir` | create new directory |
+| `touch` | create new file|
+| `rm` | remove file and directory |
+| `cp` | copy file and directory |
+| `mv` | move file and directory |
+| `cat` | show file contents |
+| `ln` | create links between files |
+| `head` | display the first 10 lines of file |
+| `tail` | display the last 10 lines of file |
+| `find` | search for files and directories |
