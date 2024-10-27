@@ -1,7 +1,7 @@
 # Ultimate-linux-cheatsheet
 Hey there, I am Sayan Roy, Here I am providing a comprehensive linux cheatsheet which I hope you will find helpful.
 ## Table of Contents
-[Introduction](#introduction), [File and directory commands](#file-and-directory-commands), [ls operations commands](#ls-operations-commands)
+[Introduction](#introduction), [File and directory commands](#file-and-directory-commands), [ls operations commands](#ls-operations-commands), [Process management commands](#process-management-commands).
 ## Introduction
 Linux, a free and open-source operating system, empowers users with control and flexibility. It's known for its stability, security, and versatility. From personal computers to powerful servers, Linux adapts to various needs. It's a community-driven project, constantly evolving with user contributions.
 
