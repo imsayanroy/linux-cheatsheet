@@ -4,6 +4,8 @@
 [Introduction](#introduction), [Installation](#installation), [Insert-mode](#insert-mode), [Exiting](#exiting).
 ## Introduction
 Vim is a versatile text editor known for its speed and efficiency.
+
+learn more: [`vim.org`](https://www.vim.org/)
 ## Installation
 Here is the process to install Vim in Ubuntu/Kalilinux/Debian etc.
 - update the package lists
