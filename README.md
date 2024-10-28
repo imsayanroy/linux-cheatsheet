@@ -5,6 +5,7 @@ Hey there, I am Sayan Roy, Here I am providing a comprehensive linux cheatsheet 
 - [File and directory commands](#file-and-directory-commands)
 - [ls operations commands](#ls-operations-commands)
 - [Process management commands](#process-management-commands)
+- [File permission commands](#file-permission-commands)
 ## Introduction
 Linux, a free and open-source operating system, empowers users with control and flexibility. It's known for its stability, security, and versatility. From personal computers to powerful servers, Linux adapts to various needs. It's a community-driven project, constantly evolving with user contributions.
 
@@ -50,3 +51,11 @@ for example:
 | `htop` | display interactive process viewer |
 | `kill` | end processes |
 | `pkill` | end processes based on their name |
+
+## File permission commands
+| **Commands** | **Description**         |
+| :-------- | :------------------------- |
+| `chown` | file ownership change |
+| `chmod` | file permissions change |
+| `chgrp` | group ownership change |
+| `umask` | set default file permissions |
